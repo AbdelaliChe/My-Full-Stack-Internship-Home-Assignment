@@ -9,6 +9,7 @@ Build a CSV Parser.
 - [Assignment](#assignment)
 - [What we expect](#what-we-expect)
 - [Bonus points](#bonus-points)
+- [My Approch](#My-Approch-&&-Instructions-for-the-Project)
 
 ## Prerequisites
 
